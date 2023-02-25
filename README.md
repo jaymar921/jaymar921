@@ -5,9 +5,10 @@
 <p> - 🗺️ I live in Cebu, Philippines</p>
 <p> - 👨‍🎓 I'm a BSIT student from University of Cebu Main Campus</p>
 <p> - 👀 I’m interested in minecraft plugins, software/mobile development, and system administration</p>
-<p> - 🌱 I’m currently learning Java, Kotlin and Python</p>
+<p> - 🌱 I’m currently learning Java, C# and Python</p>
 <p> - ▶️ My YouTube channel -> <a href="https://www.youtube.com/c/jaymar921">JayMar921</a></p>
 <p> - 🧩 I'm also a developer at <a href="https://www.spigotmc.org/resources/authors/1073076/">SpigotMC</a> where I posted my plugins 🥇</p>
+<p> - 🧩 View my portfolio at <a href="https://www.jayharron.info">jayharron.info</a> for more info about me</p>
 
 
 <!---
