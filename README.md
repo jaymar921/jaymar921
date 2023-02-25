@@ -8,7 +8,7 @@
 <p> - 🌱 I’m currently learning Java, C# and Python</p>
 <p> - ▶️ My YouTube channel -> <a href="https://www.youtube.com/c/jaymar921">JayMar921</a></p>
 <p> - 🧩 I'm also a developer at <a href="https://www.spigotmc.org/resources/authors/1073076/">SpigotMC</a> where I posted my plugins 🥇</p>
-<p> - 🧩 View my portfolio at <a href="https://www.jayharron.info">jayharron.info</a> for more info about me</p>
+<p> - 👤 View my portfolio at <a href="https://jayharronabejar.info/">jayharron.info</a> for more info about me 😊</p>
 
 
 <!---
