@@ -8,7 +8,7 @@
 </div>
 <br />
 
-I'm <b>Jayharron Mar Abejar</b>, I live in Cebu, Philippines, I'm a BSIT graduate from University of Cebu Main Campus - Bath of 2023. I’m interested in Minecraft plugins, Web/Mobile development, and system administration. I’m currently learning my favorite technology stack such as Java, C#, ReactJS and Python. I'm kind of a youtuber but not so popular, see my channel at [JayMar921](https://www.youtube.com/c/jaymar921). I'm also a Freelance developer at [SpigotMC ](https://www.spigotmc.org/resources/authors/1073076/) where I posted my plugins, If you want to know more about me, you can view my portfolio at [Jayharron Abejar](https://jayharronabejar.info/) 
+I'm <b>Jayharron Mar Abejar</b> a Filipino Programmer, I live in Cebu City, Philippines, I'm a BSIT graduate from University of Cebu Main Campus - Bath of 2023. I’m interested in Minecraft plugins, Web/Mobile development, and system administration. I’m currently learning my favorite technology stack such as Java, C#, ReactJS and Python. I'm kind of a youtuber but not so popular, see my channel at [JayMar921](https://www.youtube.com/c/jaymar921). I'm also a Freelance developer at [SpigotMC ](https://www.spigotmc.org/resources/authors/1073076/) where I posted my plugins, If you want to know more about me, you can view my portfolio at [Jayharron Abejar](https://jayharronabejar.info/) 
 <br />
 
 ## 🌐Socials
