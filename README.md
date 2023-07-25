@@ -1,5 +1,3 @@
-# 💫About Me :
-
 <div align="center">
   <kbd>
       <img width="200" height="200" border src="https://github.com/jaymar921/jayharronabejar/blob/main/assets/images/jay.png?raw=true"/>
@@ -8,10 +6,12 @@
 </div>
 <br />
 
+# 💫About Me :
+
 I'm <b>Jayharron Mar Abejar</b> a Filipino Programmer, I live in Cebu City, Philippines, I'm a BSIT graduate from University of Cebu Main Campus - Bath of 2023. I’m interested in Minecraft plugins, Web/Mobile development, and system administration. I’m currently learning my favorite technology stack such as Java, C#, ReactJS and Python. I'm kind of a youtuber but not so popular, see my channel at [JayMar921](https://www.youtube.com/c/jaymar921). I'm also a Freelance developer at [SpigotMC ](https://www.spigotmc.org/resources/authors/1073076/) where I posted my plugins, If you want to know more about me, you can view my portfolio at [Jayharron Abejar](https://jayharronabejar.info/) 
 <br />
 
-## 🌐Socials
+# 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Jerron.Abejar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jerron_mar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jayharron-mar-abejar-b414a9169) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/jaymar921) 
 
 # 💻Tech Stack
