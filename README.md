@@ -1,9 +1,4 @@
-<div align="center">
-  <kbd>
-      <img width="200" height="200" border src="https://github.com/jaymar921/jayharronabejar/blob/main/assets/images/jay.png?raw=true"/>
-      <h3 align="center">Full Stack Developer</h3>
-  </kbd>
-</div>
+![Figure](japi.jpg)
 <br />
 
 # 💫About Me :
