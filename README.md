@@ -58,23 +58,8 @@ I listed some of the topics that I have learned throughout the courses that I ha
 
 
 # 📊GitHub Stats :
-<a href="http://www.github.com/jaymar921"><img src="https://github-readme-stats.vercel.app/api?username=jaymar921&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="jaymar921's GitHub stats" /></a>
-
 <a href="http://www.github.com/jaymar921"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jaymar921&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/jaymar921" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaymar921&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/jaymar921/PSITS-WEB" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jaymar921&repo=PSITS-WEB&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/jaymar921/PSITSWebApp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jaymar921&repo=PSITSWebApp&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-
-<div width="100%" align="center"><a href="https://github.com/jaymar921/JavaActivities" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jaymar921&repo=JavaActivities&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-<br /><br /><br /><br /><br /><br />
-
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=jaymar921&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jaymar921&icon=0&color=1)](https://visitcount.itsvg.in)
