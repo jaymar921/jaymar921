@@ -2,7 +2,7 @@
 <br />
 
 # 💫About Me :
-I'm <b>Jayharron Mar Abejar</b> a Filipino Programmer, I live in Cebu City, Philippines, I'm a BSIT graduate from University of Cebu Main Campus - Bath of 2023. I'm also a plugin developer at [SpigotMC ](https://www.spigotmc.org/resources/authors/1073076/) where I posted my plugins, If you want to know more about me, you can view my portfolio at [Jayharron Abejar](https://jayharronabejar.info/) 
+I'm <b>Jayharron Mar Abejar</b> a Filipino Programmer, I live in Cebu City, Philippines, I'm a BSIT graduate from University of Cebu Main Campus - Bath of 2023. I'm also a former plugin developer at [SpigotMC ](https://www.spigotmc.org/resources/authors/1073076/) where I posted my plugins, If you want to know more about me, you can view my portfolio at [Jayharron Abejar](https://jayharronabejar.vercel.app/) 
 
 I'm your IT maestro, committed to revolutionizing solutions through tech! My expertise? Dominating the backend with ASP.NET C# and the sleek Flask micro-framework. NodeJS and C# fuel my freelancing and work adventures. Imagine web marvels in ASP.NET MVC, Blazor, and ReactJS, backed by MYSQL, MongoDB and the mighty Entity Framework. My secret? I thrive on tech innovation and an insatiable appetite for learning. Ready for the future? Let's journey together! 💻✨🚀
 
