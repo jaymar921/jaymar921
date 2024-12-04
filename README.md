@@ -1,6 +1,7 @@
-![Figure](https://jh-github-profiler.vercel.app/jaymar/profile-top)
+![Figure-0](https://jh-github-profiler.vercel.app/jaymar/profile-top)
 
-<br />
+![Figure-1](https://jh-github-profiler.vercel.app/jaymar/profile-body)
+
 
 # 💫About Me :
 I'm <b>Jayharron Mar Abejar</b> a Filipino Programmer, I live in Cebu City, Philippines, I'm a BSIT graduate from University of Cebu Main Campus - Bath of 2023. I'm also a former plugin developer at [SpigotMC ](https://www.spigotmc.org/resources/authors/1073076/) where I posted my plugins, If you want to know more about me, you can view my portfolio at [Jayharron Abejar](https://jayharronabejar.vercel.app/) 
