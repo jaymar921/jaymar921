@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://jayharronabejar.vercel.app">
-    <img src="https://jh-github-profiler.vercel.app/jaymar/profile-top" />
-  </a>
-</p>
+![Figure](https://jh-github-profiler.vercel.app/jaymar/profile-top)
 
 <br />
 
