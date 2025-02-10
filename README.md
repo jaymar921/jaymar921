@@ -1,22 +1,13 @@
 ![Figure-0](https://jh-github-profiler.vercel.app/jaymar/profile-top)
 
-![Figure-1](https://jh-github-profiler.vercel.app/jaymar/profile-body)
-
-
-# 💫About Me :
-I'm <b>Jayharron Mar Abejar</b> a Filipino Programmer, I live in Cebu City, Philippines, I'm a BSIT graduate from University of Cebu Main Campus - Bath of 2023. I'm also a former plugin developer at [SpigotMC ](https://www.spigotmc.org/resources/authors/1073076/) where I posted my plugins, If you want to know more about me, you can view my portfolio at [Jayharron Abejar](https://jayharronabejar.vercel.app/) 
-
-I'm your IT maestro, committed to revolutionizing solutions through tech! My expertise? Dominating the backend with ASP.NET C# and the sleek Flask micro-framework. NodeJS and C# fuel my freelancing and work adventures. Imagine web marvels in ASP.NET MVC, Blazor, and ReactJS, backed by MYSQL, MongoDB and the mighty Entity Framework. My secret? I thrive on tech innovation and an insatiable appetite for learning. Ready for the future? Let's journey together! 💻✨🚀
-
 <p align="center">
   <h3 align="center">Skills</h3>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,python,js,cs,c,cpp,git,html,css,react,vite,tailwind,nodejs,express,mongodb,mysql,flask,dotnet,arduino,docker,figma,rabbitmq,azure,vite&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,php,python,js,cs,c,cpp,git,html,css,react,vite,tailwind,nodejs,express,mongodb,mysql,flask,dotnet,arduino,docker,figma,rabbitmq,azure,vite&perline=30" />
   </a>
 </p>
-
 
 <p align="center">
   <h3 align="center">Socials</h3>
@@ -48,9 +39,8 @@ I'm your IT maestro, committed to revolutionizing solutions through tech! My exp
   <a href="https://www.buymeacoffee.com/jaymar921"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 </p>
 
-
-
 # My Notes
+
 I listed some of the topics that I have learned throughout the courses that I have taken as an aspiring fullstack software developer. Feel free to check it out :D
 
 - 🌐 [Understanding the Real-time Web - WebSocket/SSE/SignalR](https://github.com/jaymar921/Notes/blob/main/SignalR.md)
@@ -61,10 +51,6 @@ I listed some of the topics that I have learned throughout the courses that I ha
 
 - 📓 [More Notes](https://github.com/jaymar921/Notes)
 
+<br />
 
-# 📊GitHub Stats :
-<a href="http://www.github.com/jaymar921"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jaymar921&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
----
-[![](https://visitcount.itsvg.in/api?id=jaymar921&icon=0&color=1)](https://visitcount.itsvg.in)
+![Figure-1](https://jh-github-profiler.vercel.app/jaymar/profile-body)
