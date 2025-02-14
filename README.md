@@ -39,6 +39,7 @@
   <a href="https://www.buymeacoffee.com/jaymar921"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 </p>
 
+<!--
 # My Notes
 
 I listed some of the topics that I have learned throughout the courses that I have taken as an aspiring fullstack software developer. Feel free to check it out :D
@@ -54,3 +55,4 @@ I listed some of the topics that I have learned throughout the courses that I ha
 <br />
 
 ![Figure-1](https://jh-github-profiler.vercel.app/jaymar/profile-body)
+-->
