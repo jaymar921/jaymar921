@@ -1,3 +1,4 @@
+<!--
 ![Figure-0](https://jh-github-profiler.vercel.app/jaymar/profile-top)
 
 <p align="center">
@@ -7,6 +8,12 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,php,python,js,cs,c,cpp,git,html,css,react,vite,tailwind,nodejs,express,mongodb,mysql,flask,dotnet,arduino,docker,figma,rabbitmq,azure&perline=12" />
   </a>
+</p>
+
+-->
+
+<p align="center">
+  <h2 align="center">Professional Rice Cooker</h2>
 </p>
 
 <p align="center">
