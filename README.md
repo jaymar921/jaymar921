@@ -1,5 +1,4 @@
-<!--
-![Figure-0](https://jh-github-profiler.vercel.app/jaymar/profile-top)
+[![Figure-0](https://jh-github-profiler.vercel.app/jaymar/profile-top)](https://jayharronabejar.vercel.app/)
 
 <p align="center">
   <h3 align="center">Skills</h3>
@@ -10,8 +9,7 @@
   </a>
 </p>
 
--->
-
+<!-- 
 <p align="center">
   <h2 align="center">Professional Rice Cooker</h2>
 </p>
@@ -38,6 +36,8 @@
   </a>
 </p>
 
+-->
+
 <p align="center">
   <h3 align="center">Support me</h3>
 </p>
@@ -61,5 +61,7 @@ I listed some of the topics that I have learned throughout the courses that I ha
 
 <br />
 
-![Figure-1](https://jh-github-profiler.vercel.app/jaymar/profile-body)
 -->
+
+
+![Figure-1](https://jh-github-profiler.vercel.app/jaymar/profile-body)
