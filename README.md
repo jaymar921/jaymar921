@@ -70,11 +70,6 @@ I listed some of the topics that I have learned throughout the courses that I ha
             <td>Joined: 2025, October 7th</td>
         </tr>
     </tbody>
-    <tbody>
-        <tr>
-            <td><a href="https://octo-ring.com/p/jaymar921">@jaymar921</a></td>
-        </tr>
-    </tbody>
 </table>
 
 
