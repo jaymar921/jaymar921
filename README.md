@@ -1,7 +1,7 @@
 [![Figure-0](https://jh-github-profiler.vercel.app/jaymar/profile-top)](https://jayharronabejar.vercel.app/)
 
 <p align="center">
-  <h3 align="center">Skills</h3>
+  <h3 align="center">Stuff that I understand (tbh I have no expertise)</h3>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
