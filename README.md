@@ -1,7 +1,7 @@
 [![Figure-0](https://jh-github-profiler.vercel.app/jaymar/profile-top)](https://jayharronabejar.vercel.app/)
 
 <p align="center">
-  <h3 align="center">Stuff that I understand (tbh I have no expertise)</h3>
+  <h3 align="center">Stuff that I may understand but I have no expertise on these</h3>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -44,6 +44,10 @@
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/jaymar921"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+</p>
+
+<p align="center">
+  <a target="_blank" href="https://wise.com/pay/me/jayharronmara"><img src="https://www.mobiletime.com.br/wp-content/uploads/2023/02/01-Wise-logo-bright-green.png" width="150"/></a>
 </p>
 
 <!--
