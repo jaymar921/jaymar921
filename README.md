@@ -9,7 +9,6 @@
   </a>
 </p>
 
-<!-- 
 <p align="center">
   <h2 align="center">Professional Rice Cooker</h2>
 </p>
@@ -19,10 +18,10 @@
 </p>
 
 <p align="center">
-  <a href="https://facebook.com/Jerron.Abejar">
+  <a href="https://facebook.com/jerronabr">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
   </a>
-  <a href="https://instagram.com/jerron_mar">
+  <a href="https://instagram.com/jerronabr">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/jayharron-mar-abejar-b414a9169">
@@ -35,8 +34,6 @@
     <img src="https://img.shields.io/badge/Portfolio-%23FFAA00.svg?logo=GoogleChrome&logoColor=white" />
   </a>
 </p>
-
--->
 
 <p align="center">
   <h3 align="center">Support me</h3>
