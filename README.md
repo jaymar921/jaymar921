@@ -1,21 +1,23 @@
-[![Figure-0](https://jh-github-profiler.vercel.app/jaymar/profile-top)](https://jayharronabejar.vercel.app/)
-
 <p align="center">
-  <h3 align="center">Stuff that I may understand but I have no expertise on these</h3>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,python,js,cs,c,cpp,git,html,css,react,vite,tailwind,nodejs,express,mongodb,mysql,flask,dotnet,arduino,docker,figma,rabbitmq,azure&perline=12" />
+  <a href="https://jayharronabejar.vercel.app">
+    <img src="https://github.com/jaymar921/jaymar921/blob/main/cover_img.jpg" />
   </a>
 </p>
 
+<h1 align="center">Hi, I’m Jayharron</h1>
 <p align="center">
-  <h2 align="center">Professional Rice Cooker</h2>
+  Full-stack engineer, accidental humorist, and professional rice cooker. I build web apps, rescue legacy .NET code, and keep deployments from going prehistoric.
 </p>
 
-<p align="center">
-  <h3 align="center">Socials</h3>
-</p>
+## What I build
+
+- **Modern web applications** with React, Next.js, Tailwind CSS, JavaScript, and Azure.
+- **Backend systems** using .NET, C#, Node.js, Express, Python, and RabbitMQ.
+- **Deployments** with Azure, Docker, CI/CD, and secure vault-managed secrets.
+- **Legacy upgrades** by reverse-engineering old .NET apps and rewriting them with cleaner, current tech.
+
+
+## Socials
 
 <p align="center">
   <a href="https://facebook.com/jerronabr">
@@ -35,6 +37,8 @@
   </a>
 </p>
 
+<!--
+
 <p align="center">
   <h3 align="center">Support me</h3>
 </p>
@@ -46,6 +50,8 @@
 <p align="center">
   <a target="_blank" href="https://wise.com/pay/me/jayharronmara"><img src="https://www.mobiletime.com.br/wp-content/uploads/2023/02/01-Wise-logo-bright-green.png" width="150"/></a>
 </p>
+
+-->
 
 <!--
 # My Notes
@@ -63,6 +69,16 @@ I listed some of the topics that I have learned throughout the courses that I ha
 <br />
 
 -->
+## Notes
+
+- 🌐 [Understanding the Real-time Web - WebSocket/SSE/SignalR](https://github.com/jaymar921/Notes/blob/main/SignalR.md)
+- 🍪 [Cookie Authentication in ASP.NET](https://github.com/jaymar921/Notes/blob/main/AspNetCookieAuth.md)
+- 🔥 [Running and Configuring Prometheus](https://github.com/jaymar921/Notes/blob/main/Running%20and%20Configuring%20Prometheus.md)
+- 🐋 [Understanding Docker](https://github.com/jaymar921/Notes/blob/main/Understanding%20Dockerfile.md)
+- 📱 [Phone Country Codes](https://github.com/jaymar921/Notes/blob/main/Phone%20Country%20Codes.md)
+
+- 📓 [More Notes](https://github.com/jaymar921/Notes)
+
 
 
 <table align="center"><tbody><tr><td><p><b><i>jaymar921 is part of the</i></b></p><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/jaymar921/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/jaymar921/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/jaymar921/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody>
@@ -73,5 +89,5 @@ I listed some of the topics that I have learned throughout the courses that I ha
     </tbody>
 </table>
 
-
+<!--
 ![Figure-1](https://jh-github-profiler.vercel.app/jaymar/profile-body)
