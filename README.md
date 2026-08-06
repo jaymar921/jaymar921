@@ -71,12 +71,14 @@ Open to interesting side projects, open-source contributions, and collaborations
 ## Connect
 
 <p align="center">
+  <!--
   <a href="https://facebook.com/jerronabr">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
   </a>
   <a href="https://instagram.com/jerronabr">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
   </a>
+  -->
   <a href="https://www.linkedin.com/in/jaymar921">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
