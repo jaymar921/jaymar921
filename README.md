@@ -91,4 +91,7 @@ Open to interesting side projects, open-source contributions, and collaborations
   <a href="https://www.appbuildersph.com/makers/jaymar921">
     <img src="https://www.appbuildersph.com/appbuildersph_logo.png" height="24" alt="App Builders PH" />
   </a>
+  <a href="https://fullscale.rocks/profile/0c0905a6db4b9">
+    <img width="100" height="24" alt="image" src="https://github.com/user-attachments/assets/7b357c82-b86f-4811-bd6a-5f074e2e279f" alt="Full Scale Teams PH, Inc" />
+  </a>
 </p>
