@@ -67,20 +67,13 @@ ask_me_about: ["ASP.NET", "React/Next.js internals", "CI/CD pipelines", "Home DI
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaymar921&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-stats-extended.vercel.app/api?username=jaymar921&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaymar921&theme=tokyonight&hide_border=true" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaymar921&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jaymar921&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
 
-<details>
-<summary><b>🏆 Trophy case</b></summary>
-<br/>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jaymar921&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-</details>
 
 <br/>
 
@@ -155,7 +148,7 @@ Open to interesting side projects, open-source contributions, and collaborations
 
 ### 💬 Random dev wisdom, refreshed on every visit
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight" />
 
 </div>
 
