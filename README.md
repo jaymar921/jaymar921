@@ -139,6 +139,7 @@ Open to interesting side projects, open-source contributions, and collaborations
 <a href="https://jayharronabejar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23FFAA00.svg?logo=GoogleChrome&logoColor=white" /></a>
 <a href="https://www.appbuildersph.com/makers/jaymar921"><img src="https://www.appbuildersph.com/appbuildersph_logo.png" height="24" alt="App Builders PH" /></a>
 <a href="https://fullscale.rocks/profile/0c0905a6db4b9"><img width="100" height="24" alt="Full Scale Teams PH" src="https://github.com/user-attachments/assets/7b357c82-b86f-4811-bd6a-5f074e2e279f" /></a>
+<a href="https://jhprojects.vercel.app/"><img width="24" height="24" alt="JH Projects" src="https://github.com/jaymar921/JHProjects-web/blob/main/public/jh-logo.png?raw=true" /></a>
 
 </div>
 
