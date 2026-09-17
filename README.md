@@ -97,13 +97,13 @@ ask_me_about: ["ASP.NET", "React/Next.js internals", "CI/CD pipelines", "Home DI
 
 </details>
 
-## Shipped Projects!
+## Side Projects
 
 
 <div align="center">
   <kbd>
     <a href="https://www.zygowork.com" target="_blank">
-          <img width="64" height="64" src="https://github.com/jaymar921/jaymar921/blob/main/imgs/zygowork-logo.png?raw=true">
+          <img width="128" height="128" src="https://github.com/jaymar921/jaymar921/blob/main/imgs/zygowork-logo.png?raw=true">
           <h3 align="center">ZygoWork</h3>
           <p align="center">Scheduling, payroll, and <br /> compliance in one place</p>
     </a>
@@ -111,9 +111,35 @@ ask_me_about: ["ASP.NET", "React/Next.js internals", "CI/CD pipelines", "Home DI
   &nbsp;&nbsp;
   <kbd>
     <a href="https://illuminarypeak.com/" target="_blank">
-          <img width="64" height="64" src="https://avatars.githubusercontent.com/u/259235313?s=200&v=4">
+          <img width="128" height="128" src="https://avatars.githubusercontent.com/u/259235313?s=200&v=4">
           <h3 align="center">Illuminary Peak</h3>
           <p align="center">We build the future, today.</p>
+          <br />
+    </a>
+  </kbd>
+</div>
+
+## Minecraft Plugins
+
+<div align="center">
+  <kbd>
+    <a href="https://jhprojects.vercel.app/customenchantments3" target="_blank">
+          <img width="128" height="128" src="https://github.com/jaymar921/jaymar921/blob/main/imgs/spigot-plugins/ce3-logo.png?raw=true">
+          <h3 align="center">Custom Enchantments 3</h3>
+    </a>
+  </kbd>
+  &nbsp;&nbsp;
+  <kbd>
+    <a href="https://jhprojects.vercel.app/epic-mobs-rework" target="_blank">
+          <img width="128" height="128" src="https://github.com/jaymar921/jaymar921/blob/main/imgs/spigot-plugins/emr-logo.png?raw=true">
+          <h3 align="center">Epic Mobs Rework</h3>
+    </a>
+  </kbd> 
+  &nbsp;&nbsp;
+  <kbd>
+    <a href="https://jhprojects.vercel.app/farm-tales" target="_blank">
+          <img width="128" height="128" src="https://github.com/jaymar921/jaymar921/blob/main/imgs/spigot-plugins/ft-logo.png?raw=true">
+          <h3 align="center">Farm Tales</h3>
     </a>
   </kbd>
 </div>
