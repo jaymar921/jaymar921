@@ -40,44 +40,6 @@ ask_me_about: ["ASP.NET", "React/Next.js internals", "CI/CD pipelines", "Home DI
 
 </details>
 
-<!--
-<br/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,js,dotnet,cs,nodejs,express,py,rabbitmq,azure,docker,git,github,java&perline=7)](https://skillicons.dev)
-
-</div>
-
-<details>
-<summary><b>📋 Full breakdown by category</b></summary>
-
-| Area | Stack |
-|---|---|
-| **Frontend** | React, Next.js, Tailwind CSS, JavaScript |
-| **Backend** | .NET, C#, Node.js, Express, Python, RabbitMQ, Java |
-| **Cloud & DevOps** | Microsoft Azure, Docker, CI/CD Pipelines, Key Vaults |
-| **Other** | Legacy system maintenance and modernization |
-
-</details>
-
-<br/>
--->
-<!--
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=jaymar921&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaymar921&theme=tokyonight&hide_border=true" height="165" />
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jaymar921&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
--->
-
 <br/>
 
 ## 💼 Experience
@@ -145,28 +107,6 @@ On my free time, I spent some time with Java ☕. Building high-performance plug
 
 
 <br/>
-
-<!--
-
-## 📚 Notes & Documentation
-
-<details>
-<summary><b>🗂️ Click to browse my technical write-ups</b></summary>
-<br/>
-
-- 🗺️ [Software Engineering Roadmap](https://github.com/jaymar921/Software-Engineering-Roadmap)
-- ⚡ [Understanding the Real-time Web — WebSocket / SSE / SignalR](https://github.com/jaymar921/Notes/blob/main/SignalR.md)
-- 🍪 [Cookie Authentication in ASP.NET](https://github.com/jaymar921/Notes/blob/main/AspNetCookieAuth.md)
-- 📈 [Running and Configuring Prometheus](https://github.com/jaymar921/Notes/blob/main/Running%20and%20Configuring%20Prometheus.md)
-- 🐳 [Understanding Docker](https://github.com/jaymar921/Notes/blob/main/Understanding%20Dockerfile.md)
-- ☎️ [Phone Country Codes](https://github.com/jaymar921/Notes/blob/main/Phone%20Country%20Codes.md)
-- 📓 [Full Notes Collection](https://github.com/jaymar921/Notes)
-
-</details>
-
-<br/>
-
--->
 
 ## 🏕️ Outside of Work
 
