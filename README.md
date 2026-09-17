@@ -125,21 +125,21 @@ ask_me_about: ["ASP.NET", "React/Next.js internals", "CI/CD pipelines", "Home DI
   <kbd>
     <a href="https://jhprojects.vercel.app/customenchantments3" target="_blank">
           <img width="128" height="128" src="https://github.com/jaymar921/jaymar921/blob/main/imgs/spigot-plugins/ce3-logo.png?raw=true">
-          <h3 align="center">Custom Enchantments 3</h3>
+          <p align="center">Custom <br />Enchantments 3</p>
     </a>
   </kbd>
   &nbsp;&nbsp;
   <kbd>
     <a href="https://jhprojects.vercel.app/epic-mobs-rework" target="_blank">
           <img width="128" height="128" src="https://github.com/jaymar921/jaymar921/blob/main/imgs/spigot-plugins/emr-logo.png?raw=true">
-          <h3 align="center">Epic Mobs Rework</h3>
+          <p align="center">Epic Mobs <br />Rework</p>
     </a>
   </kbd> 
   &nbsp;&nbsp;
   <kbd>
     <a href="https://jhprojects.vercel.app/farm-tales" target="_blank">
           <img width="128" height="128" src="https://github.com/jaymar921/jaymar921/blob/main/imgs/spigot-plugins/ft-logo.png?raw=true">
-          <h3 align="center">Farm Tales</h3>
+          <p align="center">Farm Tales<br /></p>
     </a>
   </kbd>
 </div>
