@@ -40,6 +40,7 @@ ask_me_about: ["ASP.NET", "React/Next.js internals", "CI/CD pipelines", "Home DI
 
 </details>
 
+<!--
 <br/>
 
 ## 🛠️ Tech Stack
@@ -63,7 +64,7 @@ ask_me_about: ["ASP.NET", "React/Next.js internals", "CI/CD pipelines", "Home DI
 </details>
 
 <br/>
-
+-->
 <!--
 ## 📊 GitHub Stats
 
@@ -75,14 +76,13 @@ ask_me_about: ["ASP.NET", "React/Next.js internals", "CI/CD pipelines", "Home DI
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jaymar921&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
-
 -->
 
 <br/>
 
 ## 💼 Experience
 
-<details open>
+<details>
 <summary><b>Click to expand my journey</b></summary>
 <br/>
 
@@ -97,55 +97,56 @@ ask_me_about: ["ASP.NET", "React/Next.js internals", "CI/CD pipelines", "Home DI
 
 </details>
 
-## Side Projects
+<br />
 
+## ✨Side Projects
 
-<div align="center">
-  <kbd>
-    <a href="https://www.zygowork.com" target="_blank">
-          <img width="128" height="128" src="https://github.com/jaymar921/jaymar921/blob/main/imgs/zygowork-logo.png?raw=true">
-          <h3 align="center">ZygoWork</h3>
-          <p align="center">Scheduling, payroll, and <br /> compliance in one place</p>
-    </a>
-  </kbd>
-  &nbsp;&nbsp;
-  <kbd>
-    <a href="https://illuminarypeak.com/" target="_blank">
-          <img width="128" height="128" src="https://avatars.githubusercontent.com/u/259235313?s=200&v=4">
-          <h3 align="center">Illuminary Peak</h3>
-          <p align="center">We build the future, today.</p>
-          <br />
-    </a>
-  </kbd>
-</div>
+My experience isn't limited to my corporate work. I’ve also explored and built side projects that contribute to the business world.
 
-## Minecraft Plugins
+| <a href="https://www.zygowork.com" target="_blank"><img width="64" height="64" src="https://github.com/jaymar921/jaymar921/blob/main/imgs/zygowork-logo.png?raw=true"></a> | ZygoWork | Scheduling, payroll, and compliance in one place |
+| --- | --- | --- |
+| <a href="https://illuminarypeak.com/" target="_blank"><img width="64" height="64" src="https://avatars.githubusercontent.com/u/259235313?s=200&v=4"></a> | <strong>Illuminary Peak</strong> | <strong>We build the future, today.</strong> |
+
+<br />
+
+## 🕹️ Minecraft Plugins
+
+On my free time, I spent some time with Java ☕. Building high-performance plugins for Minecraft Servers from 1.16 to latest. You might want to check it out!
 
 <div align="center">
   <kbd>
     <a href="https://jhprojects.vercel.app/customenchantments3" target="_blank">
-          <img width="128" height="128" src="https://github.com/jaymar921/jaymar921/blob/main/imgs/spigot-plugins/ce3-logo.png?raw=true">
-          <p align="center">Custom <br />Enchantments 3</p>
+          <img width="64" height="64" src="https://github.com/jaymar921/jaymar921/blob/main/imgs/spigot-plugins/ce3-logo.png?raw=true">
+          <p align="center">Custom <br />Enchants 3</p>
     </a>
   </kbd>
   &nbsp;&nbsp;
   <kbd>
     <a href="https://jhprojects.vercel.app/epic-mobs-rework" target="_blank">
-          <img width="128" height="128" src="https://github.com/jaymar921/jaymar921/blob/main/imgs/spigot-plugins/emr-logo.png?raw=true">
+          <img width="64" height="64" src="https://github.com/jaymar921/jaymar921/blob/main/imgs/spigot-plugins/emr-logo.png?raw=true">
           <p align="center">Epic Mobs <br />Rework</p>
     </a>
   </kbd> 
   &nbsp;&nbsp;
   <kbd>
     <a href="https://jhprojects.vercel.app/farm-tales" target="_blank">
-          <img width="128" height="128" src="https://github.com/jaymar921/jaymar921/blob/main/imgs/spigot-plugins/ft-logo.png?raw=true">
-          <p align="center">Farm Tales<br /></p>
+          <img width="64" height="64" src="https://github.com/jaymar921/jaymar921/blob/main/imgs/spigot-plugins/ft-logo.png?raw=true">
+          <p align="center">Farm Tales<br />&nbsp;</p>
+    </a>
+  </kbd>
+  &nbsp;&nbsp;
+  <kbd>
+    <a href="https://jhprojects.vercel.app/kumandras-economy" target="_blank">
+          <img width="64" height="64" src="https://github.com/jaymar921/jaymar921/blob/main/imgs/spigot-plugins/kd-logo.jpg?raw=true">
+          <p align="center">Kumandra's<br />Economy</p>
     </a>
   </kbd>
 </div>
 
 
 <br/>
+
+<!--
 
 ## 📚 Notes & Documentation
 
@@ -164,6 +165,8 @@ ask_me_about: ["ASP.NET", "React/Next.js internals", "CI/CD pipelines", "Home DI
 </details>
 
 <br/>
+
+-->
 
 ## 🏕️ Outside of Work
 
