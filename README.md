@@ -35,7 +35,14 @@ Software Engineer with **3+ years** of experience building production web applic
 current_focus: "Modernizing legacy systems & shipping side projects"
 learning: "Distributed systems, event-driven architecture, game development"
 fun_fact: "I debug better when there's a hammer in my other hand 🔨"
-ask_me_about: ["ASP.NET", "React/Next.js internals", "CI/CD pipelines", "Home DIY projects", "Minecraft Plugins"]
+ask_me_about:
+  [
+    "ASP.NET",
+    "React/Next.js internals",
+    "CI/CD pipelines",
+    "Home DIY projects",
+    "Minecraft Plugins",
+  ]
 ```
 
 </details>
@@ -48,14 +55,14 @@ ask_me_about: ["ASP.NET", "React/Next.js internals", "CI/CD pipelines", "Home DI
 <summary><b>Click to expand my journey</b></summary>
 <br/>
 
-| Period | Organization | Role |
-|---|---|---|
-| Mar 2024 - Present | [Forrest T. Jones & Company, Inc.](https://ftj.com) | Software Engineer |
-| May 2023 - Present | [Full Scale Teams PH, Inc.](https://fullscale.ph) | Software Engineer |
-| Sep 2022 - May 2023 | Full Scale *(formerly Gigabook, Inc.)* | Software Developer Intern |
-| 2022 - 2023 | [PSITS UC Main](https://www.facebook.com/PSITS.UCmain) | Officer / Developer |
-| Ongoing | [JH Projects](https://github.com/JnH-Projects) | Founder |
-| Ongoing | [Illuminary Peak](https://illuminary-peak.vercel.app/) | Co-Founder |
+| Period              | Organization                                           | Role                      |
+| ------------------- | ------------------------------------------------------ | ------------------------- |
+| Mar 2024 - Present  | [Forrest T. Jones & Company, Inc.](https://ftj.com)    | Software Engineer         |
+| May 2023 - Present  | [Full Scale Teams PH, Inc.](https://fullscale.ph)      | Software Engineer         |
+| Sep 2022 - May 2023 | Full Scale _(formerly Gigabook, Inc.)_                 | Software Developer Intern |
+| 2022 - 2023         | [PSITS UC Main](https://www.facebook.com/PSITS.UCmain) | Officer / Developer       |
+| Ongoing             | [JH Projects](https://github.com/JnH-Projects)         | Founder                   |
+| Ongoing             | [Illuminary Peak](https://illuminary-peak.vercel.app/) | Co-Founder                |
 
 </details>
 
@@ -65,9 +72,9 @@ ask_me_about: ["ASP.NET", "React/Next.js internals", "CI/CD pipelines", "Home DI
 
 My experience isn't limited to my corporate work. I’ve also explored and built side projects that contribute to the business world.
 
-| <a href="https://www.zygowork.com" target="_blank"><img width="64" height="64" src="https://github.com/jaymar921/jaymar921/blob/main/imgs/zygowork-logo.png?raw=true"></a> | ZygoWork | Scheduling, payroll, and compliance in one place |
-| --- | --- | --- |
-| <a href="https://illuminarypeak.com/" target="_blank"><img width="64" height="64" src="https://avatars.githubusercontent.com/u/259235313?s=200&v=4"></a> | <strong>Illuminary Peak</strong> | <strong>We build the future, today.</strong> |
+| <a href="https://www.zygowork.com" target="_blank"><img width="64" height="64" src="https://github.com/jaymar921/jaymar921/blob/main/imgs/zygowork-logo.png?raw=true"></a> | ZygoWork                         | Scheduling, payroll, and compliance in one place |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | ------------------------------------------------ |
+| <a href="https://illuminarypeak.com/" target="_blank"><img width="64" height="64" src="https://avatars.githubusercontent.com/u/259235313?s=200&v=4"></a>                   | <strong>Illuminary Peak</strong> | <strong>We build the future, today.</strong>     |
 
 <br />
 
@@ -103,8 +110,14 @@ On my free time, I spent some time with Java ☕. Building high-performance plug
           <p align="center">Kumandra's<br />Economy</p>
     </a>
   </kbd>
+  &nbsp;&nbsp;
+  <kbd>
+    <a href="https://jhprojects.vercel.app/fish-tales" target="_blank">
+          <img width="64" height="64" src="https://github.com/jaymar921/jaymar921/blob/main/imgs/spigot-plugins/fts-logo.png?raw=true">
+          <p align="center">Fish Tales<br />&nbsp;</p>
+    </a>
+  </kbd>
 </div>
-
 
 <br/>
 
