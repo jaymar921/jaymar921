@@ -61,7 +61,7 @@ ask_me_about:
 | May 2023 - Present  | [Full Scale Teams PH, Inc.](https://fullscale.ph)      | Software Engineer         |
 | Sep 2022 - May 2023 | Full Scale _(formerly Gigabook, Inc.)_                 | Software Developer Intern |
 | 2022 - 2023         | [PSITS UC Main](https://www.facebook.com/PSITS.UCmain) | Officer / Developer       |
-| Ongoing             | [JH Projects](https://github.com/JnH-Projects)         | Founder                   |
+| Ongoing             | [JH Projects](https://jhprojects.dev)                  | Founder                   |
 | Ongoing             | [Illuminary Peak](https://illuminary-peak.vercel.app/) | Co-Founder                |
 
 </details>
@@ -84,35 +84,35 @@ On my free time, I spent some time with Java ☕. Building high-performance plug
 
 <div align="center">
   <kbd>
-    <a href="https://jhprojects.vercel.app/customenchantments3" target="_blank">
+    <a href="https://jhprojects.dev/customenchantments3" target="_blank">
           <img width="64" height="64" src="https://github.com/jaymar921/jaymar921/blob/main/imgs/spigot-plugins/ce3-logo.png?raw=true">
           <p align="center">Custom <br />Enchants 3</p>
     </a>
   </kbd>
   &nbsp;&nbsp;
   <kbd>
-    <a href="https://jhprojects.vercel.app/epic-mobs-rework" target="_blank">
+    <a href="https://jhprojects.dev/epic-mobs-rework" target="_blank">
           <img width="64" height="64" src="https://github.com/jaymar921/jaymar921/blob/main/imgs/spigot-plugins/emr-logo.png?raw=true">
           <p align="center">Epic Mobs <br />Rework</p>
     </a>
   </kbd> 
   &nbsp;&nbsp;
   <kbd>
-    <a href="https://jhprojects.vercel.app/farm-tales" target="_blank">
+    <a href="https://jhprojects.dev/farm-tales" target="_blank">
           <img width="64" height="64" src="https://github.com/jaymar921/jaymar921/blob/main/imgs/spigot-plugins/ft-logo.png?raw=true">
           <p align="center">Farm Tales<br />&nbsp;</p>
     </a>
   </kbd>
   &nbsp;&nbsp;
   <kbd>
-    <a href="https://jhprojects.vercel.app/kumandras-economy" target="_blank">
+    <a href="https://jhprojects.dev/kumandras-economy" target="_blank">
           <img width="64" height="64" src="https://github.com/jaymar921/jaymar921/blob/main/imgs/spigot-plugins/kd-logo.jpg?raw=true">
           <p align="center">Kumandra's<br />Economy</p>
     </a>
   </kbd>
   &nbsp;&nbsp;
   <kbd>
-    <a href="https://jhprojects.vercel.app/fish-tales" target="_blank">
+    <a href="https://jhprojects.dev/fish-tales" target="_blank">
           <img width="64" height="64" src="https://github.com/jaymar921/jaymar921/blob/main/imgs/spigot-plugins/fts-logo.png?raw=true">
           <p align="center">Fish Tales<br />&nbsp;</p>
     </a>
