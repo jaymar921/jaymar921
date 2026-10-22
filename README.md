@@ -103,6 +103,13 @@ On my free time, I spent some time with Java ☕. Building high-performance plug
           <p align="center">Kumandra's<br />Economy</p>
     </a>
   </kbd>
+  &nbsp;&nbsp;
+  <kbd>
+    <a href="https://www.jhprojects.dev/epic-lairs" target="_blank">
+          <img width="64" height="64" src="https://github.com/jaymar921/jaymar921/blob/main/imgs/spigot-plugins/el-logo.png?raw=true">
+          <p align="center">Epic<br />Lairs</p>
+    </a>
+  </kbd>
 </div>
 
 
