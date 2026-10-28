@@ -71,7 +71,7 @@ ask_me_about:
 
 ## ✨Side Projects
 
-My experience isn't limited to my corporate work. I’ve also explored and built side projects that contribute to the business world.
+Outside my day job, I build products of my own. These are the ones running today.
 
 | <a href="https://www.zygowork.com" target="_blank"><img width="64" height="64" src="https://github.com/jaymar921/jaymar921/blob/main/imgs/zygowork-logo.png?raw=true"></a> | ZygoWork                         | Scheduling, payroll, and compliance in one place |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | ------------------------------------------------ |
@@ -81,7 +81,7 @@ My experience isn't limited to my corporate work. I’ve also explored and built
 
 ## 🕹️ Minecraft Plugins & Mods
 
-On my free time, I spent some time with Java ☕. Building high-performance plugins for Minecraft servers from 1.16 to latest, and lately mods too: MCHeli Rework brings back the helicopter mod I grew up with, rebuilt for modern Minecraft on Forge. Everything has its own page on [jhprojects.dev](https://www.jhprojects.dev/), you might want to check it out!
+In my free time I write Java ☕. Mostly plugins for Minecraft servers, from 1.16 up to the latest version, and lately mods too: MCHeli Rework brings back the helicopter mod I grew up with, rebuilt for modern Minecraft on Forge. Each one has its own page on [jhprojects.dev](https://www.jhprojects.dev/).
 
 <div align="center">
   <kbd>
@@ -144,7 +144,7 @@ On my free time, I spent some time with Java ☕. Building high-performance plug
 
 🥾 Hiking &nbsp;•&nbsp; 🔨 DIY carpentry &nbsp;•&nbsp; ⚡ Electrical work &nbsp;•&nbsp; 👨‍👩‍👧 Family time
 
-> Turns out debugging a circuit isn't that different from debugging code — check your connections first.
+> Turns out debugging a circuit isn't that different from debugging code. Check your connections first.
 
 </details>
 
@@ -180,5 +180,5 @@ Open to interesting side projects, open-source contributions, and collaborations
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 <div align="center">
-<sub>Thanks for stopping by — ⭐ a repo if you found something useful!</sub>
+<sub>Thanks for stopping by! ⭐ a repo if you found something useful.</sub>
 </div>
