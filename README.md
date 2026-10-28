@@ -15,7 +15,7 @@
 <a href="https://jayharronabejar.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-FFAA00?style=for-the-badge" /></a>
 <a href="https://www.linkedin.com/in/jaymar921"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge" /></a>
 <a href="https://youtube.com/c/jaymar921"><img src="https://img.shields.io/badge/▶️_YouTube-Subscribe-FF0000?style=for-the-badge" /></a>
-<a href="https://jhprojects.vercel.app"><img src="https://img.shields.io/badge/🌐_JHProjects-Connect-0077B5?style=for-the-badge" /></a>
+<a href="https://www.jhprojects.dev"><img src="https://img.shields.io/badge/🌐_JHProjects-Connect-0077B5?style=for-the-badge" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=jaymar921&label=Profile+Views&color=00aaff&style=for-the-badge" alt="profile views" />
 
@@ -42,6 +42,7 @@ ask_me_about:
     "CI/CD pipelines",
     "Home DIY projects",
     "Minecraft Plugins",
+    "Minecraft Mods",
   ]
 ```
 
@@ -70,7 +71,7 @@ ask_me_about:
 
 ## ✨Side Projects
 
-My experience isn't limited to my corporate work. I’ve also explored and built side projects that contribute to the business world.
+Outside my day job, I build products of my own. These are the ones running today.
 
 | <a href="https://www.zygowork.com" target="_blank"><img width="64" height="64" src="https://github.com/jaymar921/jaymar921/blob/main/imgs/zygowork-logo.png?raw=true"></a> | ZygoWork                         | Scheduling, payroll, and compliance in one place |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | ------------------------------------------------ |
@@ -78,9 +79,9 @@ My experience isn't limited to my corporate work. I’ve also explored and built
 
 <br />
 
-## 🕹️ Minecraft Plugins
+## 🕹️ Minecraft Plugins & Mods
 
-On my free time, I spent some time with Java ☕. Building high-performance plugins for Minecraft Servers from 1.16 to latest. You might want to check it out!
+In my free time I write Java ☕. Mostly plugins for Minecraft servers, from 1.16 up to the latest version, and lately mods too: MCHeli Rework brings back the helicopter mod I grew up with, rebuilt for modern Minecraft on Forge. Each one has its own page on [jhprojects.dev](https://www.jhprojects.dev/).
 
 <div align="center">
   <kbd>
@@ -124,6 +125,13 @@ On my free time, I spent some time with Java ☕. Building high-performance plug
           <p align="center">Epic<br />Lairs</p>
     </a>
   </kbd>
+  &nbsp;&nbsp;
+  <kbd>
+    <a href="https://www.jhprojects.dev/mcheli-rework" target="_blank">
+          <img width="64" height="64" src="https://github.com/jaymar921/jaymar921/blob/main/imgs/minecraft-mods/mcheli-logo.png?raw=true">
+          <p align="center">MCHeli<br />Rework</p>
+    </a>
+  </kbd>
 </div>
 
 <br/>
@@ -136,7 +144,7 @@ On my free time, I spent some time with Java ☕. Building high-performance plug
 
 🥾 Hiking &nbsp;•&nbsp; 🔨 DIY carpentry &nbsp;•&nbsp; ⚡ Electrical work &nbsp;•&nbsp; 👨‍👩‍👧 Family time
 
-> Turns out debugging a circuit isn't that different from debugging code — check your connections first.
+> Turns out debugging a circuit isn't that different from debugging code. Check your connections first.
 
 </details>
 
@@ -153,7 +161,7 @@ Open to interesting side projects, open-source contributions, and collaborations
 <a href="https://jayharronabejar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23FFAA00.svg?logo=GoogleChrome&logoColor=white" /></a>
 <a href="https://www.appbuildersph.com/makers/jaymar921"><img src="https://www.appbuildersph.com/appbuildersph_logo.png" height="24" alt="App Builders PH" /></a>
 <a href="https://fullscale.rocks/profile/0c0905a6db4b9"><img width="100" height="24" alt="Full Scale Teams PH" src="https://github.com/user-attachments/assets/7b357c82-b86f-4811-bd6a-5f074e2e279f" /></a>
-<a href="https://jhprojects.vercel.app/"><img width="24" height="24" alt="JH Projects" src="https://github.com/jaymar921/jaymar921/blob/main/imgs/jh-logo.png?raw=true" /></a>
+<a href="https://www.jhprojects.dev/"><img width="24" height="24" alt="JH Projects" src="https://github.com/jaymar921/jaymar921/blob/main/imgs/jh-logo.png?raw=true" /></a>
 
 </div>
 
@@ -172,5 +180,5 @@ Open to interesting side projects, open-source contributions, and collaborations
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 <div align="center">
-<sub>Thanks for stopping by — ⭐ a repo if you found something useful!</sub>
+<sub>Thanks for stopping by! ⭐ a repo if you found something useful.</sub>
 </div>
